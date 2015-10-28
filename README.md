@@ -1,12 +1,14 @@
 
 # PageMirror build by Kuoll #
+This repository is buildable and working version of PageMirror extension.
+
 This build is created by Dmitry Kaigorodov, founder of Kuoll. Kuoll is a web platform that make programming better.
 http://www.kuoll.com/
 
+PageMirror is one of examples of usage of mutation-summary library. 
 Original version of mutation-summary library is here: https://github.com/rafaelw/mutation-summary
 Video about about DOM Mutations and the library is https://www.youtube.com/watch?v=eRZ4pO0gVWw
 
-This repository is buildable and working version of PageMirror extension.
 
 ## Install ##
 You can install PageMirror extension from https://chrome.google.com/webstore/detail/pagemirror-build-by-kuoll/kefndlndbcgpbimijjjefolmglodjoda
